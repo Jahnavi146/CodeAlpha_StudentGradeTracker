@@ -78,7 +78,7 @@ text
 2. Run: `java StudentGradeTracker`
 
 ## 👨‍💻 Author
-[Your Full Name]
+Lolugu Jahnavi
 
 ## 📅 Date
-[Current Date]
+28 June 2026
